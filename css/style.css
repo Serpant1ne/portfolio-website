@@ -7,3 +7,13 @@
 *{
     font-family: 'Open Sans'
 }
+
+.dropdown-menu:hover > .dropdown-menu-content {
+    display: block;
+    opacity: 100%;
+}
+
+.dropdown-lang:hover > .dropdown-lang-content {
+    display: block;
+    opacity: 100%;
+}
