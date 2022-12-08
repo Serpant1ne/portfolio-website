@@ -17,3 +17,9 @@
     display: block;
     opacity: 100%;
 }
+
+@media (max-width: 340px) {
+    .hero-right{
+        max-width: 10rem !important; 
+    }
+}
